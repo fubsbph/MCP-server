@@ -1,4 +1,4 @@
-**YouTube MCP Server**
+**MCP Server**
 
 A small MCP (Model Context Protocol) server that exposes YouTube transcript and web-search tools.
 
