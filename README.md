@@ -14,7 +14,7 @@ A small MCP (Model Context Protocol) server that exposes YouTube transcript, web
   https://github.com/user-attachments/assets/1cb82d4f-8ba7-479a-8e4f-c5471cdf66d5
 
   ## 🧱 Architecture
- ![MCP server architecture](docs/architecture.png)
+ ![MCP server architecture](docs/MCP Server Tools Pipeline-2026-02-05-004758 (1).png)
 
 **Requirements**
 - **Python**: 3.12 recommended (works with 3.10+).
