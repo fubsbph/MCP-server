@@ -5,10 +5,10 @@ A small MCP (Model Context Protocol) server that exposes YouTube transcript, web
 ## 🎥 Demos (3 quick videos)
 
 - MCP Inspector:
-  https://github.com/user-attachments/assets/cd503d0b-3b67-4e38-b472-12c1a520a326
+  https://github.com/user-attachments/assets/0a85b309-fbcf-4ce7-ab5f-9f50a62d7652
 
 - Claude Desktop: 
-  https://github.com/user-attachments/assets/0a85b309-fbcf-4ce7-ab5f-9f50a62d7652
+  https://github.com/user-attachments/assets/cd503d0b-3b67-4e38-b472-12c1a520a326
 
 - Results (saved file):
   https://github.com/user-attachments/assets/1cb82d4f-8ba7-479a-8e4f-c5471cdf66d5
