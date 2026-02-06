@@ -13,6 +13,9 @@ A small MCP (Model Context Protocol) server that exposes YouTube transcript, web
 - Results (saved file):
   https://github.com/user-attachments/assets/1cb82d4f-8ba7-479a-8e4f-c5471cdf66d5
 
+  ## 🧱 Architecture
+ ![MCP server architecture](docs/architecture.png)
+
 **Requirements**
 - **Python**: 3.12 recommended (works with 3.10+).
 - **OS**: WSL (recommended) or Windows — prefer running the server in the same environment where the virtualenv lives.
