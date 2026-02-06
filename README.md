@@ -2,7 +2,7 @@
 
 A small MCP (Model Context Protocol) server that exposes YouTube transcript, web-search and read/write to the local files tools.
 
-## 🎥 Demos (3 quick videos)
+## 🎥 Demos 
 
 - MCP Inspector:
   https://github.com/user-attachments/assets/0a85b309-fbcf-4ce7-ab5f-9f50a62d7652
