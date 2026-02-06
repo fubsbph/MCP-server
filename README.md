@@ -51,6 +51,6 @@ mcp dev server.py
 - Preferred command to run during development (inside WSL venv):
 
 ```bash
-source .venv/bin/sctivate
+source .venv/bin/activate
 uv run --native-tls mcp dev server.py
 ```
